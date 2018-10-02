@@ -1,6 +1,7 @@
   Chrome Debugger => https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 
-    JavaScript kodunuzu Google Chrome tarayıcısında veya Chrome DevTools Protokolünü destekleyen diğer hedeflerde hata ayıklamak için bir VS Kodu uzantısı.
+    JavaScript kodunuzu Google Chrome tarayıcısında veya Chrome DevTools Protokolünü destekleyen diğer
+    hedeflerde hata ayıklamak için bir VS Kodu uzantısı.
 
   Quokka => https://quokkajs.com/
 
